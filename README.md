@@ -10,7 +10,7 @@ Elaborado en:
 
 Como se visualiza:
 
-![demo](https://user-images.githubusercontent.com/demo-image.gif)
+![demo](https://github.com/YahirAlvarez/arte-flor/blob/main/art-flor.png?raw=true)
 
 Como usarlo:
 
